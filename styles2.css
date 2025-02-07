@@ -1,0 +1,5 @@
+{
+    width: 150px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* To avoid extra space around the image */
+}
